@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Birds
+* Computer Games
+* Martial Arts
+* Gnosis
+* Jelly Beans
